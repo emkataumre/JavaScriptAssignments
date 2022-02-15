@@ -1,5 +1,5 @@
 "use strict";
-
+//yes
 //assignemnt 1
 /*
 let numOfDaysUntilWeekend = 2;
